@@ -15,15 +15,15 @@ h2{
     text-align: left;
 }
 .pimg1{
-    background-image: url('/KtEcVM0-bruce-lee-wallpaper.jpg');
+    background-image: url('KtEcVM0-bruce-lee-wallpaper.jpg');
     min-height: 100%;
 }
 .pimg2{
-    background-image: url('/u6w8rcZ.jpg');
+    background-image: url('u6w8rcZ.jpg');
     min-height: 400px;
 }
 .pimg3{
-    background-image: url('/lXnoXjE.jpg');
+    background-image: url('lXnoXjE.jpg');
     min-height: 400px;
 }
 .pimg1, .pimg2, .pimg3{
